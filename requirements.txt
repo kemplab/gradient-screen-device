@@ -1,0 +1,11 @@
+matplotlib
+numpy
+pandas
+python_ternary
+scipy
+statsmodels
+sympy
+synergy
+ternary
+ternary_diagram
+openpyxl

@@ -1,0 +1,10 @@
+
+*.pyc
+.DS_Store
+Analysis/
+__pycache__/
+.ipynb_checkpoints/
+Archive/
+Concentration Maps/
+data/
+reports/
